@@ -55,9 +55,9 @@ body {
     height: 500px;
     object-fit: cover;
     display: block;
-    border-radius: 10px;
+    border-radius: 20px;
   }
-  
+
   .icon-box:hover .txt-hidden {
     opacity: 1;
   }
